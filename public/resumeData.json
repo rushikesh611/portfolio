@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Hrushikesh Jadhav",
+    "occupation": "Web Developer",
+    "description": "Currently studying for my Bachelor's Degree in Computer Science",
+    "image": "Rushi.JPG",
+    "bio": "Hi! I'm Hrushikesh Jadhav and I love Gaming. I'm a Full Stack Web Developer based in Mumbai. My skillsets include languages like JavaScript, CSS, HTML5, Python together with frameworks like ReactJs and Django. Currently, I'm a student at Ramrao Adik Institute of Technology while also working as a freelancer. I do this because I love the process of turning my ideas into reality by converting them into code. I have a serious passion for designing top-grade web applications using various machine learning and AI models to create a dynamic user experience.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "rushi611@gmail.com",
+    "phone": "+918450908953",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "ABC 123"
+    },
+    "website": "https://desyncmedia.com/",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hrushikesh-jadhav-68b923183/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hrushikesh611/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rushikesh611",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Ramrao Adik Institute of Technology",
+        "degree": "Bachelor's Degree in Computer Engineering",
+        "graduated": "June 2019 - Present",
+        "description": "Pursuing"
+      },
+      {
+        "school": "Vidyalankar Polytechnic",
+        "degree": "Diploma in Computer Engineering",
+        "graduated": "June 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Desync Media",
+        "title": "Developer",
+        "years": "June 2020 - Present",
+        "description": "Web Development Studio"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "icon":"reactjs.png",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "icon":"css.png",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "icon":"git.png",
+        "level": "30%"
+      },
+      {
+        "name": "Python",
+        "icon":"python.png",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "icon":"html5.svg",
+        "level": "90%"
+      },
+      {
+        "name": "Django",
+        "icon":"django.png",
+        "level": "80%"
+      },
+      {
+        "name": "Php",
+        "icon":"php.png",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "icon":"mysql.png",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React Spotify Clone",
+        "category": "Spotify Clone built with ReactJS and Spotify API",
+        "image": "spotifyclone.png",
+        "url": "https://spotify-clone-52baf.web.app/"
+      },
+      {
+        "title": "React Discord Clone",
+        "category": "Discord Clone built with ReactJS + Redux",
+        "image": "discordclone.png",
+        "url": "https://discord-clone-a9025.web.app/"
+      },
+      {
+        "title": "Covid19 Tracker with React",
+        "category": "Covid19 Tracker built with ReactJS and REST API",
+        "image": "covid19.png",
+        "url": "https://covid19tracker-5efcf.web.app/"
+      },
+      {
+        "title": "Ecommerce Website",
+        "category": "Ecommerce Website built with Django",
+        "image": "ecommerce.png",
+        "url": "https://github.com/rushikesh611/shopping-site-clone"
+      },
+      {
+        "title": "Social Media Site Clone ",
+        "category": "Reddit like site built with Django",
+        "image": "starsocial.png",
+        "url": "https://github.com/rushikesh611/Star-Social-"
+      },
+      {
+        "title": "Google Search Clone ",
+        "category": "Google Search Clone built with ReactJS",
+        "image": "google.png",
+        "url": "https://clone-b887d.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
