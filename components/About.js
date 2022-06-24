@@ -43,7 +43,7 @@ function About() {
             dark:hover:bg-slate-800 dark:focus:ring-gray-50"
             >
               <a
-                href="https://drive.google.com/file/d/1vkacH6rYqdX4PXolHi41sZn2bu5uUVHO/view?usp=sharing"
+                href="https://drive.google.com/file/d/1hOwYc-Yd0wBTboiV6EaaztMGwkZKTz_V/view?usp=sharing"
                 className="py-2 px-3 text-sm font-medium"
               >
                 Resume ↗

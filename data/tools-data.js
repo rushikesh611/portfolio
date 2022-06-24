@@ -99,6 +99,11 @@ const skills = [
     logo: "https://i.imgur.com/ozw1pqM.png",
     url: "https://docs.soliditylang.org/en/v0.8.12/",
   },
+  {
+    name: "TypeScript",
+    logo: "https://i.imgur.com/w6oEmhP.png",
+    url: "https://www.typescriptlang.org/",
+  },
 ];
 
 export default skills;
