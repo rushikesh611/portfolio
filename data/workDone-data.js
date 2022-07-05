@@ -8,6 +8,13 @@ const projects = [
       "Ethereum based Crowdfunding website for disaster relief funds.",
   },
   {
+    img: "https://i.imgur.com/j3MU4LU.png",
+    title: "Planet Zero",
+    url: "https://github.com/rushikesh611/planet-zero",
+    stack: "VS Code",
+    description: "A minimal, dark theme for Visual Studio Code 🚀",
+  },
+  {
     img: "https://i.imgur.com/sLbUfQO.png",
     title: "House Party",
     url: "https://github.com/rushikesh611/DisReliefFund",
