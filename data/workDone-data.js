@@ -46,7 +46,7 @@ const projects = [
     img: "https://user-images.githubusercontent.com/58942299/123683472-dc0df500-d869-11eb-92b2-12d1fb81ecd4.jpg",
     title: "Sushi",
     url: "https://github.com/rushikesh611/sushi",
-    stack: "ReactJs | Redux | Django | DRF | PostgreSQL | GraphQL",
+    stack: "NextJs | TypeScript | Django | DRF | PostgreSQL | Redis",
     description: "Project Management Tool",
   },
 ];
